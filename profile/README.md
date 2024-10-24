@@ -309,13 +309,13 @@
 ## 🛠️ 프로젝트 구조
 
 ### 플로우 차트
-![FlowChart](https://github.com/user-attachments/assets/5a045dca-8d6f-4f7d-8986-fe087a4a6abd)
-
-### API 명세
-![localhost_9000_swagger-ui html](https://github.com/user-attachments/assets/4e1beda9-7902-49f5-bff0-dab8b563a01b)
+<img width="1327" alt="FlowChart" src="https://github.com/user-attachments/assets/39a0c376-f614-4afb-a38e-da334e070b37">
 
 ### 데이터베이스 구조
 ![soloerd](https://github.com/user-attachments/assets/898d5a1a-43d8-4773-98ec-8ee80d0b0324)
+
+### API 명세
+![localhost_9000_swagger-ui html](https://github.com/user-attachments/assets/4e1beda9-7902-49f5-bff0-dab8b563a01b)
 
 <br>
 
