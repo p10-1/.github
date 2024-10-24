@@ -154,7 +154,7 @@
     </ul>
   </td>
   <td width="60%">
-    <img src="https://github.com/p10-1/.github/blob/main/profile/README_asset/%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB%20%E1%84%80%E1%85%B5%E1%84%85%E1%85%A9%E1%86%A8%202024-10-24%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%204.01.34.gif?raw=true" alt="자산분석 대시보드 데모" width="100%"/>
+    <img src="https://github.com/user-attachments/assets/44fd6d6d-9dc4-4e53-8272-2f8827b036de" alt="자산분석 대시보드 데모" width="100%"/>
   </td>
 </tr>
 <tr>
