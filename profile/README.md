@@ -3,7 +3,7 @@
 
 ## 데모영상
 <img src="https://github.com/p10-1/.github/blob/main/profile/README_asset/main.gif?raw=true" width="888px" height="504px">
-
+<img src="https://github.com/p10-1/.github/blob/main/profile/README_asset/%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB%20%E1%84%80%E1%85%B5%E1%84%85%E1%85%A9%E1%86%A8%202024-10-24%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%204.01.34.gif?raw=true" width="880px" heigh="504px">
 
 ## 📌 목차
 1. [프로젝트 소개](#프로젝트-소개)
