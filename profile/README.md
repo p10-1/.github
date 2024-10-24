@@ -45,7 +45,7 @@
       </a>
     </td>
     <td align="center" width="150px">
-      <a href="https://github.com/dudqo225" target="_blank">
+      <a href="https://github.com/simpson000" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/78641259?v=4" alt="심윤재 프로필" />
       </a>
     </td>
@@ -67,27 +67,27 @@
   <tr>
     <td align="center">
       <a href="https://github.com/Jo-wonbin" target="_blank">
-        김준영<br />(Back-end &front-end & 팀장)
+        김준영<br />(BE &FE& 팀장)
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/dudqo225" target="_blank">
-        심윤재<br />(Back-end &front-end)
+        심윤재<br />(BE &FE)
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/person003333" target="_blank">
-        서나연<br />(Back-end &front-end)
+        서나연<br />(BE &FE)
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/JeongHwan-dev" target="_blank">
-        강소라<br />(Back-end &front-end)
+        강소라<br />(FE&Design)
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/sojjeong" target="_blank">
-        오지현<br />(Back-end &front-end)
+        오지현<br />(FE&Design)
       </a>
     </td>
   </tr>
