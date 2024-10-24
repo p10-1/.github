@@ -2,7 +2,7 @@
 > KB IT's your life 최종 프로젝트 🥇우수 프로젝트로 선정된 청년을 위한 자산 분석 서비스, **빚이 없는 솔로**입니다.
 
 ## 데모영상
-<img src="/README_asset/asset.gif" width="888px" height="504px">
+<img src="README_asset/quiz.gif" width="888px" height="504px">
 
 
 ## 📌 목차
