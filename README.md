@@ -1,142 +1,149 @@
-![logo2](https://github.com/user-attachments/assets/c8cdcb5f-1786-4f2a-9d17-ed21ddbad36d) 
-<br>**청년을 위한 자산 분석 서비스**
+![logo2](https://github.com/user-attachments/assets/c8cdcb5f-1786-4f2a-9d17-ed21ddbad36d)<br>
+> KB IT's your life 최종 프로젝트 🥇우수 프로젝트로 선정된 청년을 위한 자산 분석 서비스, **빚이 없는 솔로**입니다.
 
 ## 데모영상
-
+<img src="https://github.com/p10-1/.github/blob/main/profile/README_asset/main.gif?raw=true" width="888px" height="504px">
+<img src="https://github.com/p10-1/.github/blob/main/profile/README_asset/%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB%20%E1%84%80%E1%85%B5%E1%84%85%E1%85%A9%E1%86%A8%202024-10-24%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%204.01.34.gif?raw=true" width="880px" heigh="504px">
 
 ## 📌 목차
-<table width="1000">
-<tr>
-  <td>
-    1. <a href="#프로젝트-소개">프로젝트 소개</a><br>
-    2. <a href="#팀원-소개">팀원 소개</a><br>
-    3. <a href="#주요-기능">주요 기능</a><br>
-    4. <a href="#기술-스택">기술 스택</a><br>
-    5. <a href="#프로젝트-구조">프로젝트 구조</a><br>
-    6. <a href="#프로젝트-관리">프로젝트 관리</a><br>
-    7. <a href="#프로젝트-후기-및-회고">프로젝트 후기 및 회고</a>
-  </td>
-</tr>
-</table>
+1. [프로젝트 소개](#프로젝트-소개)
+2. [팀원 소개](#팀원-소개)
+3. [주요 기능](#주요-기능)
+4. [기술 스택](#기술-스택)
+5. [프로젝트 구조](#프로젝트-구조)
+6. [프로젝트 관리](#프로젝트-관리)
+7. [프로젝트 후기 및 회고](#프로젝트-후기-및-회고)
 
-## 프로젝트 소개
-<table width="1000">
-<tr>
-<td>
+## 💸 프로젝트 소개
+- **팀 이름**: 내자산분석해조
+- **프로젝트 이름**: 빚이 없는 솔로
+- **개발 기간**: 2024.09.05 ~ 2024.10.15
+- **인원**: 5명
 
-**빚이 없는 솔로**는 증가하는 1인 가구에 맞춰 청년층의 금융 자산을 분석하고 비교하는 서비스를 제공합니다.특히 금융 문맹률이 높은 청년층을 위해 직관적이고 쉬운 자산 관리 솔루션을 제시합니다.
+### 프로젝트 개요
+현재 우리나라의 금융 문맹에 대한 문제, 특히 **청년 금융 문맹** 문제는 심각한 사회 문제로 대두되고 있습니다.<br>
+그래서 저희는 이제 막 돈을 벌기 시작한 사회초년생, 청년들을 **금융사기**, **금융범죄**의 위협으로부터 벗어나, <br>**안전한 금융자산 형성**에 도움을 줄 수 있는 서비스를 만들기로 했습니다.<br>
+### 프로젝트 목적
+1. **사용자가 금융과의 벽을 허물 수 있게 하자.**
+    - 사용자가 금융 자산을 형성함에 있어 도움이 될 수 있는 오늘의 금융 뉴스, 예적금 상품, 대출 상품 등을 매일 제공합니다.
+    - 매일매일 새로운 금융 퀴즈 이벤트를 통해서 사용자가 금융 지식을 쌓을 수 있도록 유도합니다.
+    - 청년 정책에 대한 정보를 제공하여 사용자가 금융 자산 형성에 도움을 받을 수 있게 합니다.
+3. **한 눈에 자산분포를 확인할 수 있게 하자.**
+    - 사용자의 자산 분포를 알아보기 쉽게 보여줍니다.
+    - 다른 사용자와 자산을 한 눈에 비교해주고, 나와 자산 형성 스타일이 비슷한 사용자들끼리도 비교해줍니다.
+    - 내 자산의 6개월간 추이를 보여주고, 대출에 대한 정보도 상환 방식에 따라 제공합니다.
+5. **사용자들이 서로 금융에 대해 소통할 수 있게 하자.**
+    - 사용자들끼리 서로의 금융 자산 형성에 대한 정보를 공유할 수 있게 합니다.
+    - 포인트 기능을 통해 사용자들이 적극적으로 소통에 참여하도록 유도합니다.
+### 주요 기능
+  - 개인 금융 자산 분석 비교 및 시각화
+  - 맞춤형 금융 상품 추천
+  - 사용자 커뮤니티
+  - 청년 정책 및 금융 뉴스 정보 제공
+  - 금융 퀴즈를 통한 지식 학습
 
-### 📅 개발 기간
-- 2024.09.05 ~ 2024.10.15 (7주)
 
-### 🎯 주요 기능
-- 개인 금융 자산 분석 및 시각화와 자산군과의 비교를 통한 솔루션 제공
-- 맞춤형 금융 상품 추천
-- 사용자 커뮤니티
-- 청년 정책 및 금융 뉴스 정보 제공
-- 금융 퀴즈를 통한 지식 학습
-- 대출기간에 따른 상품추천
-
-### 💡 기대 효과
+### 기대 효과
 1. **사회초년생의 재정적 안정성 마련**
-   - 자산 분석 비교 서비스를 통한 재정 안정성 향상
-   - 맞춤형 금융 혜택 및 정책 정보 제공
-   - 직관적인 대출 상환 정보 및 가이드 제공
-
+   - 자산 분석 비교 서비스를 통한 재정 안정성이 향상됩니다.
+   - 맞춤형 금융 혜택 및 정책 정보 제공받을 수 있습니다.
+   - 직관적인 대출 상환 정보 및 가이드 제공받을 수 있습니다.
 2. **사회초년생의 금융 지식 확보**
-   - 금융 퀴즈와 뉴스를 통한 경제 관념 형성
-   - 시각적 자산 통계를 통한 현 금융 수준 파악
-   - 커뮤니티를 통한 정보 공유 및 소통
-</td>
-</tr>
-</table>
+   - 금융 퀴즈와 뉴스를 통한 경제 관념 형성에 도움을 줍니다.
+   - 시각적 자산 통계를 통한 현 금융 수준 파악할 수 있습니다.
+   - 커뮤니티를 통한 정보 공유 및 소통할 수 있습니다.
 
-## 팀원 소개
-</table>
-<div align="center">
-<table width="1000">
+## 🙋 팀원 소개
+<table align="center">
   <tr>
-    <td align="center" width="200">
+    <td align="center" width="150px">
       <a href="https://github.com/jy6443" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/78211128?v=4" width="100" alt="김준영 프로필" />
+        <img src="https://avatars.githubusercontent.com/jy6443" alt="김준영 프로필" />
       </a>
     </td>
-    <td align="center" width="200">
+    <td align="center" width="150px">
       <a href="https://github.com/simpson000" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/151814723?s=400&u=ab6171cca54ed5dae558d62b058306b422653c0a&v=4" width="100" alt="심윤재 프로필" />
+        <img src="https://avatars.githubusercontent.com/u/151814723?s=400&u=ab6171cca54ed5dae558d62b058306b422653c0a&v=4" alt="심윤재 프로필" />
       </a>
     </td>
-    <td align="center" width="200">
+    <td align="center" width="150px">
       <a href="https://github.com/person003333" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/67899393?v=4" width="100" alt="서나연 프로필" />
+        <img src="https://avatars.githubusercontent.com/u/67899393?v=4" alt="서나연 프로필" />
       </a>
     </td>
-    <td align="center" width="200">
+    <td align="center" width="150px">
       <a href="https://github.com/JeongHwan-dev" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/68452755?v=4" width="100" alt="강소라 프로필" />
+        <img src="https://avatars.githubusercontent.com/u/68452755?v=4" alt="강소라 프로필" />
       </a>
     </td>
-    <td align="center" width="200">
+    <td align="center" width="150px">
       <a href="https://github.com/sojjeong" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/26254359?v=4" width="100" alt="오지현 프로필" />
+        <img src="https://avatars.githubusercontent.com/u/26254359?v=4" alt="오지현 프로필" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <b>김준영</b><br/>팀장
+      <a href="https://github.com/jy6443" target="_blank">
+        김준영<br />(팀장)
+      </a>
     </td>
     <td align="center">
-      <b>심윤재</b><br/>Backend
+      <a href="https://github.com/simpson000" target="_blank">
+        심윤재<br />(Backend)
+      </a>
     </td>
     <td align="center">
-      <b>서나연</b><br/>Backend
+      <a href="https://github.com/person003333" target="_blank">
+        서나연<br />(Backend)
+      </a>
     </td>
     <td align="center">
-      <b>강소라</b><br/>Frontend
+      <a href="https://github.com/JeongHwan-dev" target="_blank">
+        강소라<br />(Frontend)
+      </a>
     </td>
     <td align="center">
-      <b>오지현</b><br/>Frontend
+      <a href="https://github.com/sojjeong" target="_blank">
+        오지현<br />(Frontend)
+      </a>
     </td>
   </tr>
   <tr>
-    <td align="left" style="padding: 8px;">
-      • 로그인 기능<br>
-      • 게시판 기능<br>
-      • 청년 정책<br>
-      • 금융 퀴즈<br>
-      • 금융 상품
+    <td>
+      • 소셜 로그인 기능<br>
+      • 커뮤니티 기능<br>
+      • 청년정책 추천<br>
+      • 금융퀴즈 기능<br>
+      • 금융상품 추천
     </td>
-    <td align="left" style="padding: 8px;">
+    <td>
       • 금융 자산 분석<br>
       • 자산 비교<br>
       • 자산 코멘트<br>
       • 상품 추천
     </td>
-    <td align="left" style="padding: 8px;">
+    <td>
       • 자산 관리<br>
       • 포인트 관리<br>
       • 대출 가이드<br>
       • 금융 뉴스<br>
       • Swagger UI
     </td>
-    <td align="left" style="padding: 8px;">
+    <td>
       • Figma 디자인<br>
       • 전체 웹 디자인<br>
       • 커뮤니티 기능
     </td>
-    <td align="left" style="padding: 8px;">
+    <td>
       • 디자인 보조<br>
       • 금융 퀴즈 기능<br>
       • 기능 테스트
     </td>
   </tr>
 </table>
-</div>
 
-
-
-## 주요 기능
+## 🔎 주요 기능
 <table width="1000">
 <tr>
   <td width="30%" valign="top">
@@ -148,12 +155,12 @@
       <li>월별 자산 추이 그래프</li>
     </ul>
   </td>
-  <td width="70%">
-    <img src="자산분석.gif" alt="자산분석 대시보드 데모" width="100%"/>
+  <td width="60%">
+    <img src="https://github.com/user-attachments/assets/9c1bd04f-2172-4d3b-b779-e8a28317bc38" alt="자산분석 대시보드 데모" width="100%"/>
   </td>
 </tr>
 <tr>
-  <td width="30%" valign="top">
+  <td width="40%" valign="top">
     <h3>💡 금융 퀴즈</h3>
     <p>금융 상식을 키울 수 있는 퀴즈에 참여하고 포인트도 받아가세요!</p>
     <ul>
@@ -162,12 +169,12 @@
       <li>금융 지식 학습 효과</li>
     </ul>
   </td>
-  <td width="70%">
+  <td width="60%">
     <img src="금융퀴즈.gif" alt="금융퀴즈 데모" width="100%"/>
   </td>
 </tr>
 <tr>
-  <td width="30%" valign="top">
+  <td width="40%" valign="top">
     <h3>📱 커뮤니티</h3>
     <p>다른 사용자들과 금융 정보를 공유하고 소통하세요.</p>
     <ul>
@@ -176,12 +183,12 @@
       <li>댓글과 좋아요 기능</li>
     </ul>
   </td>
-  <td width="70%">
+  <td width="60%">
     <img src="커뮤니티.gif" alt="커뮤니티 데모" width="100%"/>
   </td>
 </tr>
 <tr>
-  <td width="30%" valign="top">
+  <td width="40%" valign="top">
     <h3>🏦 금융상품 추천</h3>
     <p>내 자산 상황에 맞는 최적의 금융상품을 추천해드립니다.</p>
     <ul>
@@ -190,12 +197,12 @@
       <li>상품 상세 정보 제공</li>
     </ul>
   </td>
-  <td width="70%">
+  <td width="60%">
     <img src="금융상품.gif" alt="금융상품 추천 데모" width="100%"/>
   </td>
 </tr>
 <tr>
-  <td width="30%" valign="top">
+  <td width="40%" valign="top">
     <h3>🏛️ 청년 정책 정보</h3>
     <p>청년들에게 도움이 되는 다양한 정책 정보를 손쉽게 찾을 수 있습니다.</p>
     <ul>
@@ -204,12 +211,12 @@
       <li>상세 정보 팝업 제공</li>
     </ul>
   </td>
-  <td width="70%">
+  <td width="60%">
     <img src="청년정책.gif" alt="청년 정책 정보 데모" width="100%"/>
   </td>
 </tr>
 <tr>
-  <td width="30%" valign="top">
+  <td width="40%" valign="top">
     <h3>📰 금융 뉴스</h3>
     <p>경제, 증권, 부동산 등 다양한 금융 뉴스 데이터를 제공합니다.</p>
     <ul>
@@ -218,12 +225,12 @@
       <li>뉴스 클릭 시 상세 페이지 이동</li>
     </ul>
   </td>
-  <td width="70%">
+  <td width="60%">
     <img src="금융뉴스.gif" alt="금융 뉴스 데모" width="100%"/>
   </td>
 </tr>
 <tr>
-  <td width="30%" valign="top">
+  <td width="40%" valign="top">
     <h3>🗂️ 마이페이지</h3>
     <p>자산 관리 유형, 포인트 확인, 내가 작성한 글 등을 통해 개인화된 금융 정보를 제공합니다.</p>
     <ul>
@@ -232,12 +239,12 @@
       <li>내가 작성한 글: 사용자가 작성한 글을 한눈에 볼 수 있습니다.</li>
     </ul>
   </td>
-  <td width="70%">
+  <td width="60%">
     <img src="마이페이지.gif" alt="마이페이지 데모" width="100%"/>
   </td>
 </tr>
 <tr>
-  <td width="30%" valign="top">
+  <td width="40%" valign="top">
     <h3>🔐 사용자 등록</h3>
     <p>서비스에 쉽게 가입하고 소셜 로그인을 통해 간편하게 이용할 수 있습니다.</p>
     <ul>
@@ -251,7 +258,6 @@
   </td>
 </tr>
 </table>
-
 
 
 ## 기술 스택
@@ -282,19 +288,19 @@
 ### 플로우 차트
 ![FlowChart](https://github.com/user-attachments/assets/5a045dca-8d6f-4f7d-8986-fe087a4a6abd)
 
-### API 명세
+## API 명세
 
 ![localhost_9000_swagger-ui html](https://github.com/user-attachments/assets/4e1beda9-7902-49f5-bff0-dab8b563a01b)
 
+자세한 API 명세는 [API 명세서.pdf](https://github.com/user-attachments/files/17366139/API.pdf)를 참조해 주세요.
 
-### 컴포넌트 구조
+## 컴포넌트 구조
 
 
 자세한 컴포넌트 구조는 [컴포넌트 설계](https://github.com/user-attachments/files/17365916/default.pdf)를 참조해 주세요.
 
-### 데이터베이스 구조
+## 데이터베이스 구조
 ![solo_db_erd](https://github.com/user-attachments/assets/620e1ca6-fcd7-4520-9a0f-f49fdc277e7c)
-
 
 ## 프로젝트 관리
 
@@ -382,65 +388,63 @@
 
 ## 프로젝트 후기 및 회고
 
-<h2 align="center">🎯 프로젝트 후기 및 회고</h2>
-
-<div align="center">
-<table width="1000">
+🎯 프로젝트 후기 및 회고
+<table>
   <tr>
-    <td align="center" width="200">
-      <img src="https://avatars.githubusercontent.com/u/78211128?v=4" width="100" alt="김준영"/>
-      <br/>
-      <b>김준영</b>
+    <td align="center" width="20%">
+      <img src="https://avatars.githubusercontent.com/u/78211128?v=4" width="100px;" alt="김준영"/>
+      <br />
+      <sub><b>김준영</b></sub>
     </td>
-    <td align="left" width="800">
+    <td>
       <p><strong>🌱 배운 점</strong></p>
       <p>계획부터 개발 과정까지 적극적으로 임해준 팀원들 덕분에 좋은 프로젝트 경험을 할 수 있었습니다. 팀장으로서 프로젝트를 이끌어가며 기술적인 성장뿐만 아니라 리더십과 커뮤니케이션 능력도 향상시킬 수 있었습니다.</p>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/151814723?s=400&u=ab6171cca54ed5dae558d62b058306b422653c0a&v=4" width="100" alt="심윤재"/>
-      <br/>
-      <b>심윤재</b>
+      <img src="https://avatars.githubusercontent.com/u/151814723?s=400&u=ab6171cca54ed5dae558d62b058306b422653c0a&v=4" width="100px;" alt="심윤재"/>
+      <br />
+      <sub><b>심윤재</b></sub>
     </td>
-    <td align="left">
+    <td>
       <p><strong>💡 성장 포인트</strong></p>
-      <p>스프링을 처음 다루어서 걱정을 했지만, 팀원들과 협력하여 계획한 기능들을 잘 구현한 것 같아서 뿌듯합니다. 이 프로젝트를 통해 팀 프로젝트에 대한 두려움이 많이 사라졌어요. 특히 자산 분석과 비교 기능을 구현하면서 데이터 처리에 대한 이해도가 크게 높아졌습니다.</p>
+      <p>팀원들과 협력하여 계획한 제시간에 기능들을 잘 구현한 것 같아서 뿌듯합니다. 특히 자산 분석과 비교 기능을 구현하면서 데이터 전처리와 자산 관리의 데이터에 대한 문해력이 크게 높아졌습니다.또한 분석했던 자산을 대상으로 상품 추천 알고리즘을 구현함으로써 사용자들에게 편리함을 제공해주었던 점을 통해 사용자에게 한발자국 다가가려고 노력했습니다. 이 프로젝트를 통해 팀 프로젝트에 대한 두려움이 많이 사라졌고 함께하면 이루어진다라는 것을 느끼게 되었습니다. </p>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/67899393?v=4" width="100" alt="서나연"/>
-      <br/>
-      <b>서나연</b>
+      <img src="https://avatars.githubusercontent.com/u/67899393?v=4" width="100px;" alt="서나연"/>
+      <br />
+      <sub><b>서나연</b></sub>
     </td>
-    <td align="left">
+    <td>
       <p><strong>🚀 도전과 극복</strong></p>
       <p>친절한 팀원들과 함께 서로 적극적으로 협력하면서 기획과 디자인, 개발까지 모두 참여해볼 수 있는 좋은 경험이었습니다. 프로젝트에 대한 두려움이 많이 줄었고, 특히 Swagger UI 작업을 통해 API 문서화의 중요성을 깨달았습니다.</p>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/68452755?v=4" width="100" alt="강소라"/>
-      <br/>
-      <b>강소라</b>
+      <img src="https://avatars.githubusercontent.com/u/68452755?v=4" width="100px;" alt="강소라"/>
+      <br />
+      <sub><b>강소라</b></sub>
     </td>
-    <td align="left">
+    <td>
       <p><strong>✨ 인상 깊었던 점</strong></p>
       <p>친절한 팀원들과 함께 서로 적극적으로 협력하면서 기획과 디자인, 개발까지 모두 참여해볼 수 있는 좋은 경험이었습니다. 특히 Figma를 활용한 디자인 작업과 프론트엔드 개발을 통해 사용자 경험의 중요성을 깊이 이해하게 되었습니다.</p>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/26254359?v=4" width="100" alt="오지현"/>
-      <br/>
-      <b>오지현</b>
+      <img src="https://avatars.githubusercontent.com/u/26254359?v=4" width="100px;" alt="오지현"/>
+      <br />
+      <sub><b>오지현</b></sub>
     </td>
-    <td align="left">
+    <td>
       <p><strong>💫 새로운 발견</strong></p>
       <p>웹을 제대로 만드는 경험이 처음이었는데 친절한 팀원들 덕분에 어려운 부분도 함께 해결해 나아갈 수 있었습니다. 금융 퀴즈 기능 구현과 테스트를 담당하면서 프론트엔드와 백엔드의 연동에 대해 더 깊이 이해할 수 있었습니다.</p>
     </td>
   </tr>
 </table>
-</div>
+
 그리고 프로젝트 개발에 아낌없는 조언과 지원을 해주신 멘토님들께 깊은 감사를 드립니다.
