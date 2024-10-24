@@ -43,7 +43,7 @@
   <tr>
     <td align="center" width="150px">
       <a href="https://github.com/jy6443" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/78211128?v=4" alt="김준영 프로필" />
+        <img src="[https://avatars.githubusercontent.com/u/78211128?v=4](https://avatars.githubusercontent.com/jy6443)" alt="김준영 프로필" />
       </a>
     </td>
     <td align="center" width="150px">
