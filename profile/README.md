@@ -52,7 +52,7 @@
    - 커뮤니티를 통한 정보 공유 및 소통할 수 있습니다.
 
 ## 팀원 소개
-<table>
+<table align="center">
   <tr>
     <td align="center" width="150px">
       <a href="https://github.com/jy6443" target="_blank">
