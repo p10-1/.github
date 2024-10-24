@@ -69,18 +69,18 @@
       </a>
     </td>
     <td align="center" width="150px">
-      <a href="https://github.com/person003333" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/67899393?v=4" alt="서나연 프로필" />
+      <a href="https://github.com/dologi" target="_blank">
+        <img src="https://avatars.githubusercontent.com/dologi" alt="서나연 프로필" />
       </a>
     </td>
     <td align="center" width="150px">
-      <a href="https://github.com/JeongHwan-dev" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/68452755?v=4" alt="강소라 프로필" />
+      <a href="https://github.com/sorakangi-i" target="_blank">
+        <img src="https://avatars.githubusercontent.com/sorakangi-i" alt="강소라 프로필" />
       </a>
     </td>
     <td align="center" width="150px">
-      <a href="https://github.com/sojjeong" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/26254359?v=4" alt="오지현 프로필" />
+      <a href="https://github.com/ohjihyeonnn" target="_blank">
+        <img src="https://avatars.githubusercontent.com/ohjihyeonnn" alt="오지현 프로필" />
       </a>
     </td>
   </tr>
