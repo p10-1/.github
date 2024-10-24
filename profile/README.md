@@ -414,7 +414,7 @@
 <table>
   <tr>
     <td align="center" width="20%">
-      <img src="https://avatars.githubusercontent.com/u/78211128?v=4" width="100px;" alt="김준영"/>
+      <img src="https://avatars.githubusercontent.com/jy6443" width="100px;" alt="김준영"/>
       <br />
       <sub><b>김준영</b></sub>
     </td>
@@ -436,7 +436,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/67899393?v=4" width="100px;" alt="서나연"/>
+      <img src="https://avatars.githubusercontent.com/dologi" width="100px;" alt="서나연"/>
       <br />
       <sub><b>서나연</b></sub>
     </td>
@@ -447,7 +447,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/68452755?v=4" width="100px;" alt="강소라"/>
+      <img src="https://avatars.githubusercontent.com/sorakangi-i" width="100px;" alt="강소라"/>
       <br />
       <sub><b>강소라</b></sub>
     </td>
@@ -458,7 +458,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/26254359?v=4" width="100px;" alt="오지현"/>
+      <img src="https://avatars.githubusercontent.com/ohjihyeonnn" width="100px;" alt="오지현"/>
       <br />
       <sub><b>오지현</b></sub>
     </td>
