@@ -182,7 +182,7 @@
     </ul>
   </td>
   <td width="60%">
-    <img src="커뮤니티.gif" alt="커뮤니티 데모" width="100%"/>
+    <img src="https://github.com/user-attachments/assets/939b554b-1865-48ef-8557-2145586addd2" alt="커뮤니티 데모" width="100%"/>
   </td>
 </tr>
 <tr>
@@ -196,7 +196,7 @@
     </ul>
   </td>
   <td width="60%">
-    <img src="금융상품.gif" alt="금융상품 추천 데모" width="100%"/>
+    <img src="https://github.com/user-attachments/assets/13846515-37b0-43c8-8750-a0e218dd76bd" alt="금융상품 추천 데모" width="100%"/>
   </td>
 </tr>
 <tr>
@@ -210,7 +210,7 @@
     </ul>
   </td>
   <td width="60%">
-    <img src="청년정책.gif" alt="청년 정책 정보 데모" width="100%"/>
+    <img src="https://github.com/user-attachments/assets/c008434b-945a-4f6a-aaf0-289d4a11759d" alt="청년 정책 정보 데모" width="100%"/>
   </td>
 </tr>
 <tr>
@@ -224,7 +224,7 @@
     </ul>
   </td>
   <td width="60%">
-    <img src="금융뉴스.gif" alt="금융 뉴스 데모" width="100%"/>
+    <img src="https://github.com/user-attachments/assets/ca6aae56-30d5-4a43-a32f-fe4687559450" alt="금융 뉴스 데모" width="100%"/>
   </td>
 </tr>
 <tr>
@@ -238,7 +238,7 @@
     </ul>
   </td>
   <td width="60%">
-    <img src="마이페이지.gif" alt="마이페이지 데모" width="100%"/>
+    <img src="https://github.com/user-attachments/assets/42c61d0e-5cef-4a09-9b03-1beea92161cc" alt="마이페이지 데모" width="100%"/>
   </td>
 </tr>
 <tr>
@@ -252,7 +252,7 @@
     </ul>
   </td>
   <td width="70%">
-    <img src="사용자등록.gif" alt="사용자 등록 데모" width="100%"/>
+    <img src="https://github.com/user-attachments/assets/aeb2f353-efb9-4b4d-b17a-0bd57dd1d128" alt="사용자 등록 데모" width="100%"/>
   </td>
 </tr>
 </table>
