@@ -5,12 +5,11 @@
 ## 📌 목차
 1. [프로젝트 소개](#프로젝트-소개)
 2. [팀원 소개](#팀원-소개)
-3. [기술 스택](#기술-스택)
-4. [프로젝트 구조](#프로젝트-구조)
-5. [주요 기능](#주요-기능)
+3. [주요 기능](#주요-기능)
+4. [기술 스택](#기술-스택)
+5. [프로젝트 구조](#프로젝트-구조)
 6. [개발 기간 및 작업 관리](#개발-기간-및-작업-관리)
-7. [기대 효과](#기대-효과)
-8. [API 명세](#api-명세)
+7. [API 명세](#api-명세)
 9. [컴포넌트 구조](#컴포넌트-구조)
 10. [설치 및 실행 방법과 사용예시](#설치-및-실행-방법과-사용예시)
 11. [감사의 글](#감사의-글)
@@ -37,43 +36,6 @@
 | 심윤재 | 백엔드 | 금융 자산 분석/비교, 자산 코멘트, 상품 추천 |
 | 오지현 | 프론트엔드 | 디자인 보조, 금융 퀴즈 기능 |
 
-## 기술 스택
-
-### Frontend
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Pinia](https://img.shields.io/badge/pinia-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Axios](https://img.shields.io/badge/axios-%23671ddf.svg?style=for-the-badge&logo=axios&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-
-### Backend
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Database
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
-
-### 기타
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-
-## 프로젝트 구조
-
-### 플로우 차트
-![FlowChart](https://github.com/user-attachments/assets/5a045dca-8d6f-4f7d-8986-fe087a4a6abd)
-
-```
-프로젝트_루트/
-├── frontend/
-│   └── (Vue.js 관련 파일 및 폴더)
-├── backend/
-│   └── (Spring Framework 관련 파일 및 폴더)
-└── database/
-    └── (MySQL 관련 파일)
-```
 
 ## 주요 기능
 
@@ -116,6 +78,49 @@
 9. **마이페이지**
    ![마이페이지](마이페이지_이미지_URL)
    - 개인화된 자산 관리 정보 제공
+
+
+
+
+
+
+## 기술 스택
+
+### Frontend
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Pinia](https://img.shields.io/badge/pinia-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Axios](https://img.shields.io/badge/axios-%23671ddf.svg?style=for-the-badge&logo=axios&logoColor=white)
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+
+### Backend
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+
+### 기타
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+
+## 프로젝트 구조
+
+### 플로우 차트
+![FlowChart](https://github.com/user-attachments/assets/5a045dca-8d6f-4f7d-8986-fe087a4a6abd)
+
+```
+프로젝트_루트/
+├── frontend/
+│   └── (Vue.js 관련 파일 및 폴더)
+├── backend/
+│   └── (Spring Framework 관련 파일 및 폴더)
+└── database/
+    └── (MySQL 관련 파일)
+```
 
 
 ## 개발 기간 및 작업 관리
