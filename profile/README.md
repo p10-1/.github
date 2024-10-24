@@ -2,8 +2,6 @@
 > KB IT's your life 최종 프로젝트 🥇우수 프로젝트로 선정된 청년을 위한 자산 분석 서비스, **빚이 없는 솔로**입니다.
 
 ## 데모영상
-<img src="https://github.com/p10-1/.github/blob/main/profile/README_asset/main.gif?raw=true" width="888px" height="504px">
-<img src="https://github.com/p10-1/.github/blob/main/profile/README_asset/%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB%20%E1%84%80%E1%85%B5%E1%84%85%E1%85%A9%E1%86%A8%202024-10-24%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%204.01.34.gif?raw=true" width="880px" heigh="504px">
 
 ## 📌 목차
 1. [프로젝트 소개](#프로젝트-소개)
@@ -156,7 +154,7 @@
     </ul>
   </td>
   <td width="60%">
-    <img src="https://github.com/user-attachments/assets/9c1bd04f-2172-4d3b-b779-e8a28317bc38" alt="자산분석 대시보드 데모" width="100%"/>
+    <img src="https://github.com/p10-1/.github/blob/main/profile/README_asset/%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB%20%E1%84%80%E1%85%B5%E1%84%85%E1%85%A9%E1%86%A8%202024-10-24%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%204.01.34.gif?raw=true" alt="자산분석 대시보드 데모" width="100%"/>
   </td>
 </tr>
 <tr>
