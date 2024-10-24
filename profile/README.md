@@ -11,6 +11,7 @@
 3. [주요 기능](#-주요-기능)
 4. [기술 스택](#기술-스택)
 5. [프로젝트 구조](#프로젝트-구조)
+6. [프로젝트 관리](#프로젝트-관리)
 6. [프로젝트 후기 및 회고](#프로젝트-후기-및-회고)
 
 ## 💸 프로젝트 소개
@@ -258,19 +259,6 @@
 </tr>
 </table>
 
-## 개발 기간 및 작업 관리
-
-| 단계 | 기간 | 주요 내용 |
-|------|------|----------------|
-| 요구사항 분석 및 기획 | 2024.09.05 ~ 2024.09.07 | • 서비스 기획 및 요구사항 정의<br>• 주요 고객층 선정 |
-| DB/API 설계 | 2024.09.09 ~ 2024.09.12 | • 데이터베이스 스키마 설계<br>• REST API 설계<br>• UI/UX 디자인 |
-| 개발 환경 구축 | 2024.09.12 | • 개발 환경 세팅<br>• 형상 관리 전략 수립 |
-| 백엔드 개발 | 2024.09.12 ~ 2024.09.18 | • 컨트롤러 구현<br>• API 테스트 |
-| 메인 기능 구현 | 2024.09.19 ~ 2024.09.27 | • 핵심 기능 개발<br>• 프론트엔드 구현 |
-| 기능 고도화 | 2024.09.28 ~ 2024.10.02 | • 기능 개선<br>• 성능 최적화 |
-| 테스트/디자인 | 2024.10.03 ~ 2024.10.11 | • 통합 테스트<br>• UI/UX 개선 |
-| 문서화 | 2024.10.12 ~ 2024.10.15 | • 기술 문서 작성<br>• 발표자료 준비 |
-
 
 ## 기술 스택
 
@@ -314,8 +302,89 @@
 ## 데이터베이스 구조
 ![solo_db_erd](https://github.com/user-attachments/assets/620e1ca6-fcd7-4520-9a0f-f49fdc277e7c)
 
-## git flow와 pr 구조
+## 프로젝트 관리
 
+### git flow와 pr 구조
+
+
+### 개발 기간 및 작업 관리
+
+<h3 align="center">📅 개발 기간 및 작업 관리</h3>
+
+<div align="center" style="width: 1000px; margin: 0 auto;">
+<table width="1000">
+<tr>
+    <th width="200" align="center">단계</th>
+    <th width="250" align="center">기간</th>
+    <th width="550" align="center">주요 내용</th>
+</tr>
+<tr>
+    <td align="center"><b>요구사항 분석 및 기획</b></td>
+    <td align="center">2024.09.05 ~ 2024.09.07</td>
+    <td align="left">
+        &nbsp;&nbsp;• 서비스 기획 및 요구사항 정의<br>
+        &nbsp;&nbsp;• 주요 고객층 선정
+    </td>
+</tr>
+<tr>
+    <td align="center"><b>DB/API 설계</b></td>
+    <td align="center">2024.09.09 ~ 2024.09.12</td>
+    <td align="left">
+        &nbsp;&nbsp;• 데이터베이스 스키마 설계<br>
+        &nbsp;&nbsp;• REST API 설계<br>
+        &nbsp;&nbsp;• UI/UX 디자인
+    </td>
+</tr>
+<tr>
+    <td align="center"><b>개발 환경 구축</b></td>
+    <td align="center">2024.09.12</td>
+    <td align="left">
+        &nbsp;&nbsp;• 개발 환경 세팅<br>
+        &nbsp;&nbsp;• 형상 관리 전략 수립
+    </td>
+</tr>
+<tr>
+    <td align="center"><b>백엔드 개발</b></td>
+    <td align="center">2024.09.12 ~ 2024.09.18</td>
+    <td align="left">
+        &nbsp;&nbsp;• 컨트롤러 구현<br>
+        &nbsp;&nbsp;• API 테스트
+    </td>
+</tr>
+<tr>
+    <td align="center"><b>메인 기능 구현</b></td>
+    <td align="center">2024.09.19 ~ 2024.09.27</td>
+    <td align="left">
+        &nbsp;&nbsp;• 핵심 기능 개발<br>
+        &nbsp;&nbsp;• 프론트엔드 구현
+    </td>
+</tr>
+<tr>
+    <td align="center"><b>기능 고도화</b></td>
+    <td align="center">2024.09.28 ~ 2024.10.02</td>
+    <td align="left">
+        &nbsp;&nbsp;• 기능 개선<br>
+        &nbsp;&nbsp;• 성능 최적화
+    </td>
+</tr>
+<tr>
+    <td align="center"><b>테스트/디자인</b></td>
+    <td align="center">2024.10.03 ~ 2024.10.11</td>
+    <td align="left">
+        &nbsp;&nbsp;• 통합 테스트<br>
+        &nbsp;&nbsp;• UI/UX 개선
+    </td>
+</tr>
+<tr>
+    <td align="center"><b>문서화</b></td>
+    <td align="center">2024.10.12 ~ 2024.10.15</td>
+    <td align="left">
+        &nbsp;&nbsp;• 기술 문서 작성<br>
+        &nbsp;&nbsp;• 발표자료 준비
+    </td>
+</tr>
+</table>
+</div>
 ## 프로젝트 후기 및 회고
 
 🎯 프로젝트 후기 및 회고
