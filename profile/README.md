@@ -4,12 +4,12 @@
 ## 데모영상
 
 ## 📌 목차
-1. [프로젝트 소개](#프로젝트-소개)
-2. [팀원 소개](#팀원-소개)
-3. [주요 기능](#주요-기능)
-4. [기술 스택](#기술-스택)
-5. [프로젝트 구조](#프로젝트-구조)
-6. [프로젝트 관리](#프로젝트-관리)
+1. [프로젝트 소개](#-프로젝트-소개)
+2. [팀원 소개](#-팀원-소개)
+3. [주요 기능](#-주요-기능)
+4. [기술 스택](#-기술-스택)
+5. [프로젝트 구조](#-프로젝트-구조)
+6. [프로젝트 관리](#-프로젝트-관리)
 7. [프로젝트 후기 및 회고](#프로젝트-후기-및-회고)
 
 ## 💸 프로젝트 소개
@@ -258,7 +258,7 @@
 </table>
 
 
-## 기술 스택
+## 📚 기술 스택
 
 ### Frontend
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -281,7 +281,8 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-## 프로젝트 구조
+
+## 🛠️ 프로젝트 구조
 
 ### 플로우 차트
 ![FlowChart](https://github.com/user-attachments/assets/5a045dca-8d6f-4f7d-8986-fe087a4a6abd)
@@ -300,14 +301,14 @@
 ## 데이터베이스 구조
 ![solo_db_erd](https://github.com/user-attachments/assets/620e1ca6-fcd7-4520-9a0f-f49fdc277e7c)
 
-## 프로젝트 관리
+## 📅 프로젝트 관리
 
 ### git flow와 pr 구조
 
 
 ### 개발 기간 및 작업 관리
 
-<h3 align="center">📅 개발 기간 및 작업 관리</h3>
+<h3 align="center"> 개발 기간 및 작업 관리</h3>
 
 <div align="center" style="width: 1000px; margin: 0 auto;">
 <table width="1000">
