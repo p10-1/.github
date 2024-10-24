@@ -168,7 +168,7 @@
     </ul>
   </td>
   <td width="60%">
-    <img src="금융퀴즈.gif" alt="금융퀴즈 데모" width="100%"/>
+    <img src="https://github.com/user-attachments/assets/81c27284-1215-4864-ad9e-f6154a970cff" alt="금융퀴즈 데모" width="100%"/>
   </td>
 </tr>
 <tr>
