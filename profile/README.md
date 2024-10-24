@@ -12,6 +12,8 @@
 6. [프로젝트 관리](#-프로젝트-관리)
 7. [프로젝트 후기 및 회고](#프로젝트-후기-및-회고)
 
+<br>
+
 ## 💸 프로젝트 소개
 - **팀 이름**: 내자산분석해조
 - **프로젝트 이름**: 빚이 없는 솔로
@@ -50,6 +52,8 @@
    - 금융 퀴즈와 뉴스를 통한 경제 관념 형성에 도움을 줍니다.
    - 시각적 자산 통계를 통한 현 금융 수준 파악할 수 있습니다.
    - 커뮤니티를 통한 정보 공유 및 소통할 수 있습니다.
+
+<br>
 
 ## 🙋 팀원 소개
 <table align="center">
@@ -140,6 +144,7 @@
     </td>
   </tr>
 </table>
+<br>
 
 ## 🔎 주요 기능
 <table width="1000">
@@ -256,7 +261,7 @@
   </td>
 </tr>
 </table>
-
+<br>
 
 ## 📚 기술 스택
 
@@ -281,6 +286,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
+<br>
 
 ## 🛠️ 프로젝트 구조
 
