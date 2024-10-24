@@ -153,12 +153,12 @@
       <li>월별 자산 추이 그래프</li>
     </ul>
   </td>
-  <td width="70%">
+  <td width="60%">
     <img src="자산분석.gif" alt="자산분석 대시보드 데모" width="100%"/>
   </td>
 </tr>
 <tr>
-  <td width="30%" valign="top">
+  <td width="40%" valign="top">
     <h3>💡 금융 퀴즈</h3>
     <p>금융 상식을 키울 수 있는 퀴즈에 참여하고 포인트도 받아가세요!</p>
     <ul>
@@ -167,12 +167,12 @@
       <li>금융 지식 학습 효과</li>
     </ul>
   </td>
-  <td width="70%">
+  <td width="60%">
     <img src="금융퀴즈.gif" alt="금융퀴즈 데모" width="100%"/>
   </td>
 </tr>
 <tr>
-  <td width="30%" valign="top">
+  <td width="40%" valign="top">
     <h3>📱 커뮤니티</h3>
     <p>다른 사용자들과 금융 정보를 공유하고 소통하세요.</p>
     <ul>
@@ -181,12 +181,12 @@
       <li>댓글과 좋아요 기능</li>
     </ul>
   </td>
-  <td width="70%">
+  <td width="60%">
     <img src="커뮤니티.gif" alt="커뮤니티 데모" width="100%"/>
   </td>
 </tr>
 <tr>
-  <td width="30%" valign="top">
+  <td width="40%" valign="top">
     <h3>🏦 금융상품 추천</h3>
     <p>내 자산 상황에 맞는 최적의 금융상품을 추천해드립니다.</p>
     <ul>
@@ -195,12 +195,12 @@
       <li>상품 상세 정보 제공</li>
     </ul>
   </td>
-  <td width="70%">
+  <td width="60%">
     <img src="금융상품.gif" alt="금융상품 추천 데모" width="100%"/>
   </td>
 </tr>
 <tr>
-  <td width="30%" valign="top">
+  <td width="40%" valign="top">
     <h3>🏛️ 청년 정책 정보</h3>
     <p>청년들에게 도움이 되는 다양한 정책 정보를 손쉽게 찾을 수 있습니다.</p>
     <ul>
@@ -209,12 +209,12 @@
       <li>상세 정보 팝업 제공</li>
     </ul>
   </td>
-  <td width="70%">
+  <td width="60%">
     <img src="청년정책.gif" alt="청년 정책 정보 데모" width="100%"/>
   </td>
 </tr>
 <tr>
-  <td width="30%" valign="top">
+  <td width="40%" valign="top">
     <h3>📰 금융 뉴스</h3>
     <p>경제, 증권, 부동산 등 다양한 금융 뉴스 데이터를 제공합니다.</p>
     <ul>
@@ -223,12 +223,12 @@
       <li>뉴스 클릭 시 상세 페이지 이동</li>
     </ul>
   </td>
-  <td width="70%">
+  <td width="60%">
     <img src="금융뉴스.gif" alt="금융 뉴스 데모" width="100%"/>
   </td>
 </tr>
 <tr>
-  <td width="30%" valign="top">
+  <td width="40%" valign="top">
     <h3>🗂️ 마이페이지</h3>
     <p>자산 관리 유형, 포인트 확인, 내가 작성한 글 등을 통해 개인화된 금융 정보를 제공합니다.</p>
     <ul>
@@ -237,12 +237,12 @@
       <li>내가 작성한 글: 사용자가 작성한 글을 한눈에 볼 수 있습니다.</li>
     </ul>
   </td>
-  <td width="70%">
+  <td width="60%">
     <img src="마이페이지.gif" alt="마이페이지 데모" width="100%"/>
   </td>
 </tr>
 <tr>
-  <td width="30%" valign="top">
+  <td width="40%" valign="top">
     <h3>🔐 사용자 등록</h3>
     <p>서비스에 쉽게 가입하고 소셜 로그인을 통해 간편하게 이용할 수 있습니다.</p>
     <ul>
