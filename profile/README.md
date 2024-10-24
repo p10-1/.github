@@ -154,7 +154,7 @@
     </ul>
   </td>
   <td width="60%">
-    <img src="자산분석.gif" alt="자산분석 대시보드 데모" width="100%"/>
+    <img src="https://github.com/user-attachments/assets/9c1bd04f-2172-4d3b-b779-e8a28317bc38" alt="자산분석 대시보드 데모" width="100%"/>
   </td>
 </tr>
 <tr>
