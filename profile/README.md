@@ -40,7 +40,7 @@
 <table>
   <tr>
     <td align="center" width="150px">
-      <a href="https://github.com/Jo-wonbin" target="_blank">
+      <a href="https://github.com/jy6443" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/78211128?v=4" alt="김준영 프로필" />
       </a>
     </td>
