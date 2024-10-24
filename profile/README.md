@@ -312,11 +312,12 @@
 ![FlowChart](https://github.com/user-attachments/assets/5a045dca-8d6f-4f7d-8986-fe087a4a6abd)
 
 ### API 명세
-
 ![localhost_9000_swagger-ui html](https://github.com/user-attachments/assets/4e1beda9-7902-49f5-bff0-dab8b563a01b)
 
 ### 데이터베이스 구조
-![solo_db_erd](https://github.com/user-attachments/assets/620e1ca6-fcd7-4520-9a0f-f49fdc277e7c)
+![soloerd](https://github.com/user-attachments/assets/898d5a1a-43d8-4773-98ec-8ee80d0b0324)
+
+<br>
 
 ## 📅 프로젝트 관리
 
@@ -325,7 +326,6 @@
 
 ### 개발 기간 및 작업 관리
 
-<h3 align="center"> 개발 기간 및 작업 관리</h3>
 
 <div align="center" style="width: 1000px; margin: 0 auto;">
 <table width="1000">
