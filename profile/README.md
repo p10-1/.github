@@ -1,4 +1,4 @@
-![logo2](https://github.com/user-attachments/assets/c8cdcb5f-1786-4f2a-9d17-ed21ddbad36d) - 청년을 위한 금융 자산 분석 서비스
+![logo2](https://github.com/user-attachments/assets/c8cdcb5f-1786-4f2a-9d17-ed21ddbad36d) _ 청년을 위한 금융 자산 분석 서비스
 
 ## 📌 목차
 1. [프로젝트 소개](#프로젝트-소개)
