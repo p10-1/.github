@@ -1,4 +1,5 @@
-![logo2](https://github.com/user-attachments/assets/c8cdcb5f-1786-4f2a-9d17-ed21ddbad36d) _ 청년을 위한 금융 자산 분석 서비스
+![logo2](https://github.com/user-attachments/assets/c8cdcb5f-1786-4f2a-9d17-ed21ddbad36d) 
+<br>**청년을 위한 자산 분석 서비스**
 
 ## 데모영상
 
@@ -36,6 +37,62 @@
    - 커뮤니티를 통한 정보 공유 및 소통
 
 ## 팀원 소개
+<table>
+  <tr>
+    <td align="center" width="150px">
+      <a href="https://github.com/Jo-wonbin" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/78211128?v=4" alt="김준영 프로필" />
+      </a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/dudqo225" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/78641259?v=4" alt="심윤재 프로필" />
+      </a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/person003333" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/67899393?v=4" alt="서나연 프로필" />
+      </a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/JeongHwan-dev" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/68452755?v=4" alt="강소라 프로필" />
+      </a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/sojjeong" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/26254359?v=4" alt="오지현 프로필" />
+      </a>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Jo-wonbin" target="_blank">
+        김준영<br />(Back-end &front-end & 팀장)
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/dudqo225" target="_blank">
+        심윤재<br />(Back-end &front-end)
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/person003333" target="_blank">
+        서나연<br />(Back-end &front-end)
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/JeongHwan-dev" target="_blank">
+        강소라<br />(Back-end &front-end)
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sojjeong" target="_blank">
+        오지현<br />(Back-end &front-end)
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 | 이름 | 역할 | 담당 업무 |
 |------|------|-----------|
