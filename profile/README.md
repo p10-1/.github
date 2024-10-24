@@ -293,18 +293,11 @@
 ### 플로우 차트
 ![FlowChart](https://github.com/user-attachments/assets/5a045dca-8d6f-4f7d-8986-fe087a4a6abd)
 
-## API 명세
+### API 명세
 
 ![localhost_9000_swagger-ui html](https://github.com/user-attachments/assets/4e1beda9-7902-49f5-bff0-dab8b563a01b)
 
-자세한 API 명세는 [API 명세서.pdf](https://github.com/user-attachments/files/17366139/API.pdf)를 참조해 주세요.
-
-## 컴포넌트 구조
-
-
-자세한 컴포넌트 구조는 [컴포넌트 설계](https://github.com/user-attachments/files/17365916/default.pdf)를 참조해 주세요.
-
-## 데이터베이스 구조
+### 데이터베이스 구조
 ![solo_db_erd](https://github.com/user-attachments/assets/620e1ca6-fcd7-4520-9a0f-f49fdc277e7c)
 
 ## 📅 프로젝트 관리
