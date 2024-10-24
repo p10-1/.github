@@ -1,5 +1,5 @@
-![logo2](https://github.com/user-attachments/assets/c8cdcb5f-1786-4f2a-9d17-ed21ddbad36d) 
-<br>**청년을 위한 자산 분석 서비스**
+![logo2](https://github.com/user-attachments/assets/c8cdcb5f-1786-4f2a-9d17-ed21ddbad36d)<br>
+> KB IT's your life 최종 프로젝트 🥇우수 프로젝트로 선정된 청년을 위한 자산 분석 서비스, **빚이 없는 솔로**입니다.
 
 ## 데모영상
 
