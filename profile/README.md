@@ -96,7 +96,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/person003333" target="_blank">
+      <a href="https://github.com/dologi" target="_blank">
         서나연<br />(Backend)
       </a>
     </td>
