@@ -132,6 +132,7 @@
       • 대출 가이드<br>
       • 금융 뉴스<br>
       • Swagger UI
+      • 웹 서비스 시연 영상 제작
     </td>
     <td>
       • Figma 기능 UI 디자인<br>
