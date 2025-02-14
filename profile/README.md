@@ -135,9 +135,9 @@
       • 웹 서비스 시연 영상 제작
     </td>
     <td>
-      • Figma 기능 UI 디자인<br>
+      • Figma UI 프로토 디자인<br>
       • 전체 웹 디자인<br>
-      • 전체 웹 UI 퍼블리싱<br>
+      • 전체 웹 UX/UI 퍼블리싱<br>
       • 콘텐츠 기획<br>
       • Swagger UI<br>
       • 커뮤니티 기능<br>
