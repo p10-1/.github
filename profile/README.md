@@ -131,7 +131,7 @@
       • 포인트 관리<br>
       • 대출 가이드<br>
       • 금융 뉴스<br>
-      • Swagger UI
+      • Swagger UI<br>
       • 웹 서비스 시연 영상 제작
     </td>
     <td>
